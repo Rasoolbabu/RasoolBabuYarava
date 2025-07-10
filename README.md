@@ -1,4 +1,3 @@
-# RasoolBabuYarava
 # 👋 Hi, I'm Rasool Babu – Information Systems & ML Enthusiast
 
 🎓 Graduate student in Information Systems  
@@ -12,6 +11,16 @@
 - 🛡️ Securing enterprise applications with IAM and compliance frameworks
 - ☁️ Deploying full-stack apps with AWS, Docker, and CI/CD pipelines
 - 📈 Data visualization dashboards using Power BI and Tableau
+
+---
+
+## 💼 Industry Experience
+
+**Machine Learning Engineer**  
+*Hexaware Technologies, India (Feb 2023 – Oct 2023)*  
+- Built and deployed ML models for churn prediction, anomaly detection, and sentiment analysis.
+- Worked with Python, Scikit-learn, AWS, Docker, and Power BI.
+- Collaborated with cross-functional teams to ensure scalable model integration and monitoring.
 
 ---
 
@@ -33,13 +42,20 @@
 
 ---
 
+## 📌 Projects
+
+- [🔐 Secure Web App](https://github.com/rasoolbabu/secure-web-app): Role-based authentication with React, Node.js, and AWS
+- [📈 Retail Dashboard](https://github.com/rasoolbabu/retail-dashboard): Built with Power BI and Python for data-driven business insights
+- [🤖 ML Model Optimization](https://github.com/rasoolbabu/ml-model-robustness): CIFAR-10 adversarial robustness and tuning techniques
+
+---
+
 ## 🔗 Connect With Me
 
 - 📧 Email: rasoolbabu@email.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📂 [Portfolio](https://yourwebsite.com) *(optional)*
+- 💼 [LinkedIn](https://linkedin.com/in/rasoolbabu)  
+- 📂 [Portfolio](https://rasoolbabu.dev) *(optional)*
 
 ---
 
 > 💡 *"Success is the sum of small efforts repeated day in and day out." – Robert Collier*
-
