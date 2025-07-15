@@ -1,63 +1,68 @@
-# 👋 Hi, I'm Rasool Babu – Full Stack Developer | Cloud & DevOps Enthusiast
+# 👨‍💻 Rasool Babu Yarava – AI & Machine Learning Engineer 🤖📊
 
-🎓 Graduate student in Information Systems  
-💻 Skilled in building secure, scalable full-stack applications  
-☁️ Passionate about DevOps, cloud technologies, and clean code  
-🌎 Based in St. Louis, MO
+Hi there! I'm **Rasool Babu Yarava**, a results-driven **AI/ML Engineer** passionate about building intelligent systems that solve real-world problems. I specialize in developing predictive models, data pipelines, and AI-powered applications that create business value.
 
 ---
 
-## 💼 What I'm Working On
-- 🖥️ Developing responsive web apps using React, Node.js, and Express
-- ☁️ Deploying containerized applications on AWS using Docker and Jenkins
-- 🧠 Learning advanced software architecture and CI/CD automation
-- 📈 Building dashboards with Power BI for real-time data insights
+## 💻 What I'm Working On
 
----
-
-## 💼 Industry Experience
-
-**Full Stack Developer**  
-*Hexaware Technologies, India (Feb 2023 – Oct 2023)*  
-- Developed secure web applications with React and Node.js using RESTful APIs and JWT authentication.
-- Integrated PostgreSQL and MongoDB for optimized data access and scalability.
-- Automated deployments using Docker and GitHub Actions on AWS EC2 and Lambda.
-- Collaborated in Agile sprints to deliver high-quality features and dashboards for internal teams.
+- 🧠 **Predictive Modeling:** Creating machine learning models for healthcare and customer analytics.  
+- 🔬 **NLP Applications:** Building tools for sentiment analysis and user feedback classification.  
+- 🚚 **Logistics Intelligence:** Developing real-time vehicle tracking and anomaly detection systems.  
+- ☁️ **ML Deployment:** Packaging models into APIs and deploying on cloud platforms (AWS, Heroku).  
 
 ---
 
 ## 🎯 Current Goals
-- Build a robust portfolio with production-grade full-stack apps  
-- Contribute to open-source DevOps and cloud projects  
-- Secure a role as a Full Stack or DevOps Engineer in 2025  
+
+- 💼 Secure a full-time role as an **AI/ML Engineer** in a data-driven organization.  
+- 🤝 Contribute to open-source machine learning and data science tools.  
+- 📈 Advance skills in MLOps, model monitoring, and explainable AI (XAI).  
 
 ---
 
-## 🧠 Skills & Tools
+## 🛠️ Technologies & Tools I Use
 
-**Languages:** JavaScript, Python, SQL, Java, C++  
-**Frontend:** React, HTML5, CSS3, Bootstrap, Angular  
-**Backend:** Node.js, Express.js, Django, Spring Boot, .NET Core  
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-**DevOps & Cloud:** AWS, Docker, Jenkins, GitHub Actions  
-**Others:** Git, REST APIs, Agile, OAuth 2.0, CI/CD, Power BI
-
----
-
-## 📌 Projects
-
-- [🔐 Secure Web App](https://github.com/rasoolbabu/secure-web-app): Authenticated web app using JWT, React, and Node.js with AWS deployment
-- [📊 Power BI Sales Dashboard](https://github.com/rasoolbabu/retail-dashboard): Interactive BI dashboard for analyzing business KPIs
-- [🧾 Expense Tracker](https://github.com/rasoolbabu/expense-tracker): MERN-based personal finance tracker
+**Languages:** Python, PySpark, SQL, MATLAB, Shell Scripting  
+**ML & DS Libraries:** Scikit-learn, Pandas, NumPy, XGBoost, Matplotlib  
+**NLP Tools:** NLTK, TextBlob, TF-IDF, spaCy  
+**Big Data:** Hadoop, Spark, Hive, Kafka, Sqoop  
+**Deployment & DevOps:** Flask, Docker, Jenkins, GitHub Actions  
+**Visualization:** Power BI, Tableau, Matplotlib  
+**Databases:** MongoDB, MySQL, PostgreSQL, Oracle  
+**Cloud Platforms:** AWS (EC2, S3), Heroku  
+**Other Tools:** Jupyter, Git, Toad, IntelliJ  
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Let's Connect
 
-- 📧 Email: rasoolbabu@email.com  
-- 💼 [LinkedIn](https://linkedin.com/in/rasoolbabu)  
-- 🧭 Portfolio: https://rasoolbabu.dev *(optional)*
+- ✉️ **Email:** rasoolbabuyarava6@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/rasoolbabu](#)  
+- 🌐 **Portfolio:** _Coming Soon_  
 
 ---
 
-> 💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+## 💡 Quote of the Day
+
+> *"Success is not final, failure is not fatal: it is the courage to continue that counts." – Winston Churchill*
+
+---
+
+## 📌 Pinned Projects
+
+### 🏥 No-show Patient Predictor  
+Classification model using logistic regression to predict patient appointment no-shows.
+
+### 💬 Sentiment Analysis Web App  
+Full-stack app using Flask + React to analyze user sentiment in real time.
+
+### 🚗 Real-Time Vehicle Tracking Dashboard  
+Geospatial analytics and anomaly detection using simulated GPS data and K-Means.
+
+### 🔥 Short Circuit and Fire Detection Sensor  
+Embedded ML project using microcontrollers and GSM alerts for real-time fire detection.
+
+---
+
+🟢 *Always learning. Always building. Always optimizing with data.*
